@@ -4,3 +4,6 @@
 ``` python
 print("hola")
 ```
+- [x] empezar esto
+- [x] hacer esto
+- [ ] acabar esto
